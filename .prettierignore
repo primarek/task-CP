@@ -1,0 +1,12 @@
+node_modules
+public
+.env*
+out
+build
+coverage
+.cache
+package-lock.json
+.vscode
+.agents
+.idea
+docs/
